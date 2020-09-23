@@ -1,0 +1,22 @@
+Requirements
+
+All the files below can be gotten from: http://www.vbaccelerator.com
+
+
+vbalDTab6.ocx
+vbalSGrid6.ocx
+
+
+ASPIshim.dll
+CDRip.dll
+lame_enc.dll
+LameEncShim.dll
+SSubTmr6.dll
+vbalCDRip6.dll
+vbalCDRipInterfaces6.dll
+vbalMp3WaveDataWriter6.dll
+vbalWaveDataWriter6.dll
+
+wnaspi32.dll - This file can be downloaded from http://www.nero.com/en/631940733573829.html
+
+This was such a cluster ---- that I hope I listed all the files here !
